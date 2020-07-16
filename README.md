@@ -2,4 +2,4 @@
 
 For students who dream of being a developer, I will organize what I have learned and build and upload a web server.
 
-Web Address : www.jeonghoo.kro.kr
+Web Address : http://jeonghoo.kro.kr
